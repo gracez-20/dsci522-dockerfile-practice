@@ -4,5 +4,5 @@ channels:
   - conda-forge
 dependencies:
   - pandas=2.2.2
-  - python=3.12
+  - python=3.11
 prefix: /Users/zhiweizhang/miniforge3/envs/522_assignment_2
