@@ -1,6 +1,5 @@
 name: 522_assignment_2
 channels:
-  - defaults
   - conda-forge
 dependencies:
   - pandas=2.2.2
